@@ -43,12 +43,10 @@ appropriate message and jump to 6</li>
 <li>end of the game.</li> 
 </ol>
 </p>
-<br />
-
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>JAVA</b>
+- <b>Java</b>
 
 <h2>Environments Used</h2>
 
