@@ -13,7 +13,7 @@ connection via the Start button: </li>
 </ul>
 </ul>
 By default, the program creates a socket based on port 23456. The game starts at
-client connection
+client connection.
 <ol>
 <li> the server is assigned an X and the client is assigned an O. When the client is connected, the user is on
 the server goes into traffic making mode and the client goes into traffic waiting mode
