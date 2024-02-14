@@ -72,8 +72,17 @@ Gameplay (after connection):  <br/>
 End of the game: <br/>
 <img src="https://i.imgur.com/JBDio97.png" width="80%" alt="EndOfGame"/>
 <br />
-
-
+  
+<h2>Closing remarks</h2>
+<p>
+  <ul>
+<li> The operation of the application can be tested on one computer by generating a jar artifact
+and running twice: from the IntelliJ IDEA environment (keeping the option
+debugging, etc.) and from the jar archive with the localhost server setting</li> 
+<li>For the program to work properly on two computers, it must be on each of them
+define firewall rules that unblock port 23456 in both directions.</li>
+    </ul>
+</p>
 <!--
  ```diff
 - text in red
