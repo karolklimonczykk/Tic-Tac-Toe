@@ -40,7 +40,7 @@ has not ended (loss/draw)</li>
 <li> if yes, the movement coordinate is sent to the server and is displayed
 appropriate message and jump to 6</li>
     </ul>
-<li>end of game.</li> 
+<li>end of the game.</li> 
 </ol>
 </p>
 <br />
@@ -61,29 +61,17 @@ appropriate message and jump to 6</li>
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating the stiffness matrix of a beam element <br/>
-<img src="https://i.imgur.com/UwhIF1S.png" width="80%" alt ="ke"  width="80%"/>
+Launching the application <br/>
+<img src="https://i.imgur.com/I4g8PfM.png" width="80%" alt ="waitingForOpp"  width="80%"/>
 <br />
 <br />
-Creating a global stiffness matrix:  <br/>
-<img src="https://i.imgur.com/hCmyxCE.png" alt="Global marix " width="80%"/>
- <img src="https://i.imgur.com/0L7TFOK.png" alt="KK" width="80%"/>
+Gameplay (after connection):  <br/>
+<img src="https://i.imgur.com/zlzaf5P.png" alt="GamePlay" width="80%"/>
 <br />
 <br />
-Applying boundary conditions: <br/>
-<img src="https://i.imgur.com/WREGb5y.png" width="80%" alt="boundaryConditions"/>
+End of the game: <br/>
+<img src="https://i.imgur.com/JBDio97.png" width="80%" alt="EndOfGame"/>
 <br />
- boundary conditions for given scheme: <br/>
- <img src="https://i.imgur.com/FJPPM3E.png"  alt="conditions"/>
-<br />
- <br />
-Solving for displacement vector:  <br/>
-<img src="https://i.imgur.com/8lU3NXp.png" width="80%" alt = "displacement vector"/>
-<br />
-<br />
-results:  <br/>
-<img src="https://i.imgur.com/t5id8vp.png" width="80%" alt="plot"/>
- <img src="https://i.imgur.com/wVPcKBl.png" width="80%" alt="error"/>
 
 
 <!--
