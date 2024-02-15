@@ -46,8 +46,8 @@ appropriate message and jump to 6</li>
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Java</b>
-- Java Swing (GUI)
+- <b>Java</b> (SE 21 LTS)
+- <b>Java Swing</b> (GUI)
 
 <h2>Environments Used</h2>
 
