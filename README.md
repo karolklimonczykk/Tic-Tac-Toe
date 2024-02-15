@@ -55,18 +55,11 @@ appropriate message and jump to 6</li>
 
 <h2>Libraries Used</h2>
 
-- javax.swing.JFrame
--javax.swing.JPanel
--java.awt.Color
--java.awt.event.MouseAdapter
--java.awt.event.MouseEvent
--java.io.DataInput
--java.io.DataInputStream
--java.io.DataOutputStream
--java.io.IOException
--java.net.InetAddress
--java.net.ServerSocket
--java.net.Socket
+- javax.swing.*;
+- java.awt.*;
+- java.awt.event.*;
+- java.io.*;
+- java.net.*;
 
 <h2>Program walk-through:</h2>
 
