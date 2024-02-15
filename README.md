@@ -47,6 +47,7 @@ appropriate message and jump to 6</li>
 <h2>Languages and Utilities Used</h2>
 
 - <b>Java</b>
+- <b>Java Swing (GUI)</b>
 
 <h2>Environments Used</h2>
 
@@ -54,7 +55,7 @@ appropriate message and jump to 6</li>
 
 <h2>Libraries Used</h2>
 
-- <b>Java Swing (GUI)</b>
+- - <b>Java Swing (GUI)</b>
 
 <h2>Program walk-through:</h2>
 
