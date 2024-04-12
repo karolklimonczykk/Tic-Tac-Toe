@@ -53,13 +53,6 @@ appropriate message and jump to 6</li>
 
 - <b>IntelliJ IDEA 2023.3.3</b>
 
-<h2>Libraries Used</h2>
-
-- javax.swing.*;
-- java.awt.*;
-- java.awt.event.*;
-- java.io.*;
-- java.net.*;
 
 <h2>Program walk-through:</h2>
 
